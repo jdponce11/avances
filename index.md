@@ -1,17 +1,8 @@
 ---
-#
-# Here you can change the text shown in the Home page before the Latest Posts section.
-#
-# Edit cayman-blog's home layout in _layouts instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
 layout: home
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+El objetivo de este blog, es documentar mi progreso en el desarrollo de una aplicación web, que surge de la necesidad personal de mantener balanceados mis nutrientes con una dieta vegetariana/vegana (transición). Basado en *"Guía para la alimentación vegana"* de Attilio Altieri. 
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+Soy un ingeniero electrónico y no sé mucho de desarrollo web, escritura y nutrición. En este proyecto convergen los tres aspectos. 
 
-Have a look at the Github page for more information.
-
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
