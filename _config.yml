@@ -21,7 +21,7 @@
 title: José Ponce
 email: jponce10111@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog para documentar los avances de mi proyecto personal de una web app planificadora semanal de comida balanceada (vegana). 
+  Blog para documentar los avances de mis proyectos personales, actualmente una web app planificadora semanal de una dieta vegana balanceada.
 baseurl: / # the subpath of your site, e.g. /blog
 url: https://jdponce11.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
