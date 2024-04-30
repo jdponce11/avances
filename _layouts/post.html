@@ -16,6 +16,7 @@ layout: default
   </header> -->
 
   <div itemprop="articleBody">
+    {% capture content %}{% include fancy-tables.liquid html=content %}{% endcapture %}
     {{ content }}
   </div>
 
