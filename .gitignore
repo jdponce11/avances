@@ -4,4 +4,4 @@ _site
 .jekyll-metadata
 vendor
 # Ignore drafts
-_drafts/
+_posts/*_draft.md
